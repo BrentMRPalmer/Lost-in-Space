@@ -1,0 +1,32 @@
+Current = Voltage/Resistance
+
+Ex: 
+Current = 5 Volts / 220 Ohms
+	= 0.023 Amperes
+
+LED stands for light emitting diode
+
+Breadboard provides electrical connections to the
+holes in the same row. 
+There are also connected holes in vertical lines
+in the + and - columns of the breadboard.
+
+LEDs: Electrical current should flow into
+the long prong and out of the short prong.
+
+-----------------------------------------------
+
+Making a light turn on:
+Must make a full circuit
+Connect 5V to breadboard using wire
+Connect 220 Ohm resistor on breadboard
+Connect breadboard to GND (ground) using wire
+
+-----------------------------------------------
+
+Arduino notes:
+Functions can also be called routines
+Each line, ended by a semicolon, is called a statement
+Comments use // syntax
+The setup routine runs once at the start, and then
+the loop routine runs continously
