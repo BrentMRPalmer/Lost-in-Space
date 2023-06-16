@@ -1,0 +1,14 @@
+Using a switch as one of our discrete components
+Called a DIP switch (Dual inline plastic)
+Flipping a switch to on "completes" the circuit
+
+--------------------------------------------------
+
+Goal today - instead of using the DIP switch to control the current 
+of the light directly, we are using it to control the hero board.
+
+--------------------------------------------------
+
+Why do we need a resistor between the switch and the 
+HERO board.
+5V straight to ground can short circuit a HERO board.
