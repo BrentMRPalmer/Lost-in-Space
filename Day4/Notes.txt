@@ -1,0 +1,19 @@
+Goal: Connect three different LEDs to a DIP switch
+that has three swithes to individually control each 
+LED.
+
+----------------------------------------------------------
+
+Note: If the metal part of the resistors touch, the 
+current will go through both!
+
+----------------------------------------------------------
+
+When needing multiple sources of 5V, it is best to use
+the red vertical striple (the bus) on the side of the 
+breadboard. Same logic applies to needing multiple
+ground (GND), but with the blue ground bus.
+
+----------------------------------------------------------
+
+The term debugging also applies to hardware.
