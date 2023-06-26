@@ -1,0 +1,25 @@
+Creative Day 1
+
+Day to make whatever you want. 
+
+------------------------------------------------------
+
+Created a 3-to-8 decoder that takes binary inputs
+from 1 to 8 and lights up a light corresponding
+to the binary input.
+
+000 (LED0)
+001 (LED1)
+010 (LED2)
+011 (LED3)
+100 (LED4)
+101 (LED5)
+110 (LED6)
+111 (LED7)
+
+------------------------------------------------------
+
+Note: Always put the resistor before the LED, otherwise 
+it risks breaking the LED. Also makes LED shine less 
+brightly if resistor comes after (resistor is 
+doing nothing if it comes after).
